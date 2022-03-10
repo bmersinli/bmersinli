@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/liontarri" target="blank"><img src="https://img.shields.io/twitter/follow/liontarri?logo=twitter&style=for-the-badge" alt="liontarri" /></a> </p>
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **Dart, Flutter and Swift**
 
 - 📝 I regularly write articles on [https://medium.com/@bmersinli](https://medium.com/@bmersinli)
 
